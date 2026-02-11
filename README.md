@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Olá,  atualmente estou estudando programação e pretendo me tornar um programador FullStack em Python até novembro de 2025</p>
+<p align="left">Cursando Ciências da Computação</p>
 
 ###
 
