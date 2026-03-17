@@ -2,15 +2,23 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Front-End Developer | React | JavaScript | TypeScript</h2>
 
 ###
 
-<p align="left">Cursando Ciências da Computação</p>
+<p align="left">Estudante de Ciência da Computação <br>Background em dados, negócios e análise financeira </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias / Technology</h2>
+
+<ul>
+  <li>JavaScritp</li>
+  <li>TypeScritp</li>
+  <li>React</li>
+  <li>HTML5 & CSS3</li>
+  <li>Git & Gihub</li>
+</ul>
 
 ###
 
@@ -27,6 +35,16 @@
 </div>
 
 ###
+
+<h2>Projetos em Destaque</h2>
+<ul>
+  <li>Financial Dashboard (em desenvolvimento)</li>
+  <li>Portfolio Web</li>
+  <li>Disney +</li>
+</ul>
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oyamasscruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180em" alt="stats graph"  />
