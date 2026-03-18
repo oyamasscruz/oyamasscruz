@@ -38,9 +38,9 @@
 
 <h2>Projetos em Destaque</h2>
 <ul>
-  <li>Financial Dashboard (em desenvolvimento)</li>
-  <li>Portfolio Web</li>
-  <li>Disney +</li>
+  <li>Financial Dashboard (React + TypeScript)</li>
+  <li>Portfolio React Developer</li>
+  <li>Disney + Clone (React)</li>
 </ul>
 
 ###
